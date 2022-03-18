@@ -76,7 +76,7 @@ nav a:hover {
 }
 .heroimg {
 	height: 250px;
-	background-image: url(HW02/banner.png);
+	background-image: url(banner.png);
 	background-position: center 0;
 	border-radius: 50px;
 	background-size: auto auto;
